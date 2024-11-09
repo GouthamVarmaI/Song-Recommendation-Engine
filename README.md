@@ -92,7 +92,6 @@ The project requires specific versions of some packages to avoid conflicts:
 - typing-extensions==4.5.0 (required for tensorflow compatibility)
 - gradio==3.35.0
 - Other packages (numpy, pandas, etc.) can use latest versions
-   ```
 
 ## Using the Recommendation Engine
 1. Open the notebook and run all cells
