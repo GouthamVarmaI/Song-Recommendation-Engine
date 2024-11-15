@@ -1,8 +1,8 @@
-# Song Recommendation Engine 🎵
+# 🎸 Song Recommendation Engine ✨
 
 A data-driven music recommendation system that analyzes listening patterns and suggests new songs to users. Using collaborative filtering and machine learning techniques, this system provides personalized music recommendations based on user preferences.
 
-## 🌟 Live Demos
+## 🎯 Live Demos
 - **Hugging Face Space**: [Not Spotify But Close](https://huggingface.co/spaces/GouthamVarma/not-spotify-but-close)
 - **GitHub Repository**: [Song Recommendation Engine](https://github.com/GouthamVarmaI/Song-Recommendation-Engine)
 
