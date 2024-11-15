@@ -147,7 +147,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Dataset sourced from [Last.fm](http://www.last.fm/)
 - Inspired by modern music recommendation systems
 - Built with open-source tools and libraries
-
-## Contact
-- GitHub: [@GouthamVarmaI](https://github.com/GouthamVarmaI)
-- Project Link: [https://github.com/GouthamVarmaI/Song-Recommendation-Engine](https://github.com/GouthamVarmaI/Song-Recommendation-Engine)
